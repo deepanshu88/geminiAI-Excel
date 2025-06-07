@@ -8,6 +8,3 @@ Refer to the instructions by clicking on the link below:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
