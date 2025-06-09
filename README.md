@@ -17,7 +17,7 @@ Refer to the instructions by clicking on the link below:
 - Formula Explainer  
 - Data Insights  
 - Passage QnA
-- Batch Mode
+- Parallel Processing
 
 
 ---
